@@ -1,0 +1,10 @@
+1.Welcome 
+ 2.to Python!!
+ 3.Learn more 
+ 4.and use more 
+ 5.the end!!
+ 6.Open file 
+ 7.in Append mode 
+ 8.and add 5 lines
+ 9.of text 
+ 10.into it
